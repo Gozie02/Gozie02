@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gozie02
+- 👋 Hi, I’m Gozie Ibekwe
 - 👀 I’m interested in Machine Learning, Data Science and Artificial Intelligence
 - 🌱 I’m currently learning Deep Learning and Artificial Intelligence
 - 💞️ I’m looking to collaborate on projects in the Machine Learning space
