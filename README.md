@@ -1,28 +1,49 @@
-<h1 align="center">Hi 👋, I'm Gozie!</h1>
+# Gozie Ibekwe
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2I2M2F1cjU2NGRnN2F1NzJ0Mms3NXQ0aXI4anMwcTVubGZuZWdqOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.gif" width="200"/>
-</p>
+**Engineer · Technical Writer · AI Systems Builder**
 
-Welcome to my little corner of the world where I build whatever catches my fancy!
+I build production AI systems and write the documentation that makes them usable. My work sits at the intersection of software engineering and technical communication — I'm as comfortable designing a multi-agent consensus pipeline as I am explaining how it works to someone encountering it for the first time.
 
-**About Me:**
-- Primarily focusing on Quantitative Trading, but Data Science/Machine Learning are my first loves.
-- Love market making, hence my Nostradamus project xD
+Currently: shipping [Clairvoyant](https://clairvoyant.pro), an autonomous AI trading system for Polymarket prediction markets. Writing for [SlashGear](https://slashgear.com/author/gozieibekwe/) on AI, tech, and emerging systems.
 
-**📫 How to reach me:**
-<p>
-  <a href="mailto:igibekwe13@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gozie-ibekwe/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p> 
+---
 
+## Stack
 
+**Backend**
+Python · FastAPI · PostgreSQL · Redis · Celery · REST APIs
 
-<!---
-Gozie02/Gozie02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**AI & Automation**
+Claude API · Gemini API · GPT-4 · ElevenLabs TTS · Multi-agent orchestration · Prompt engineering
+
+**Infrastructure**
+Git · GitHub Actions · Railway · CI/CD pipelines · Docker (basics)
+
+**Documentation & Content**
+Markdown · Technical guides · API documentation · Developer onboarding · SEO-informed content architecture
+
+**Analytics**
+Google Analytics · SEMrush · SurferSEO
+
+---
+
+## Projects
+
+### [Clairvoyant](https://clairvoyant.pro) *(private repo)*
+Autonomous AI trading bot for Polymarket. Three independent AI agents — Claude, Gemini, and Grok — each price open prediction markets. When their weighted consensus diverges from the live market price, Kelly Criterion sizes the position and executes. When they disagree, the system waits.
+
+Built on FastAPI · PostgreSQL · Redis · Celery · Railway
+
+---
+
+## Writing
+
+I've spent three years writing about technical and AI topics at scale — explainers, deep-dives, buyer's guides, and developer documentation. Bylines at [SlashGear](https://slashgear.com/author/gozieibekwe/) and GameRant (Valnet Inc.). Technical guides on ML/Data Science with 10,000+ readers.
+
+The writing and the engineering inform each other: I build systems precise enough to document them, and I document systems clearly enough that others can build on them.
+
+---
+
+## Contact
+
+[igibekwe13@gmail.com](mailto:igibekwe13@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gozie-ibekwe/) · [Substack](https://gozieibekwe.substack.com/) · [clairvoyant.pro](https://clairvoyant.pro)
