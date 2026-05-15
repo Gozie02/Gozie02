@@ -34,6 +34,13 @@ Autonomous AI trading bot for Polymarket. Three independent AI agents — Claude
 
 Built on FastAPI · PostgreSQL · Redis · Celery · Railway
 
+### [House Price Predictor](https://gozieibekwe.github.io/house-price-docs)
+ML regression system comparing Linear, Ridge, and Random Forest models 
+for residential property price prediction. Documented with MkDocs, 
+deployed via GitHub Actions CI/CD.
+
+[Source](https://github.com/Gozie02/House-Price-Prediction) · 
+[Live Docs](https://Gozie02.github.io/house-price-docs)
 ---
 
 ## Writing
